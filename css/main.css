@@ -1,0 +1,89 @@
+.wrapper {
+  max-width: 840px;
+  margin: 0 auto; }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  .header .header__menu {
+    display: flex; }
+
+.header-padding {
+  padding: 20px 0; }
+
+.header__item {
+  margin-left: 30px; }
+  .header__item .header__link {
+    color: #000;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "Tahoma", "sans-serif";
+    font-weight: bold; }
+    .header__item .header__link:hover {
+      color: #8d8d8d; }
+
+.content-type {
+  display: flex;
+  background-color: #f0f0f0;
+  padding: 20px 30px; }
+  .content-type .content-type__info {
+    margin-left: 22px; }
+    .content-type .content-type__info .content-type__title {
+      font-size: 21px;
+      font-family: "Tahoma", "sans-serif";
+      font-weight: bold;
+      line-height: 28px; }
+    .content-type .content-type__info .content-type__text {
+      font-size: 14px;
+      font-family: "Times New Roman", "sans-serif";
+      color: #8d8d8d;
+      line-height: 20px;
+      margin: 5px 0; }
+
+.more-btn {
+  background: linear-gradient(to bottom, #da4137, #b4362e);
+  border: none;
+  color: #fff;
+  padding: 10px 25px;
+  border-radius: 3px;
+  font-size: 13px;
+  font-family: "Tahoma", "sans-serif";
+  cursor: pointer; }
+  .more-btn:hover {
+    background: linear-gradient(to top, #da4137, #b4362e); }
+
+.content-section__text {
+  font-size: 14px;
+  font-family: "Times New Roman", "sans-serif";
+  color: #8d8d8d;
+  line-height: 20px; }
+
+.content-section__title {
+  font-size: 18px;
+  font-family: "Tahoma", "sans-serif";
+  line-height: 28px;
+  font-weight: bold; }
+
+.advantages {
+  display: flex;
+  justify-content: space-between; }
+  .advantages .advantages__item {
+    width: 22%;
+    display: flex;
+    align-items: center; }
+  .advantages .advantages__text {
+    font-size: 14px;
+    font-style: italic; }
+  .advantages .advantages__img {
+    margin-right: 10px; }
+
+.section-margin {
+  margin: 20px 0; }
+  .section-margin:last-child {
+    margin: 20px 0 150px 0; }
+
+.advantages-margin {
+  margin: 40px 0; }
+
+/*# sourceMappingURL=main.css.map */

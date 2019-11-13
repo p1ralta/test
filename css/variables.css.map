@@ -1,0 +1,1 @@
+{"version":3,"file":"variables.css","sources":["variables.scss"],"sourcesContent":["$mainTextColor: #8d8d8d;\r\n$mainBgColor: #f0f0f0;\r\n$btnBgColor: #da4137;\r\n$btnShadowColor: #b4362e;\r\n$mainFontFamily: 'Times New Roman';\r\n$headFontFamily: 'Tahoma';\r\n$mainFontSize: 14px;\r\n$headFontSize: 18px;\r\n"],"names":[],"mappings":""}
