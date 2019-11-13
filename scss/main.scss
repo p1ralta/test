@@ -1,15 +1,15 @@
 @import "variables";
 
 @mixin sectionText {
-	font-size: $mainFontSize;
-	font-family: $mainFontFamily, 'sans-serif';
+  font-size: $mainFontSize;
+  font-family: $mainFontFamily, 'sans-serif';
   color: $mainTextColor;
   line-height: 20px;
 }
 
 @mixin sectionHeader {
-	font-size: $headFontSize;
-	font-family: $headFontFamily, 'sans-serif';
+  font-size: $headFontSize;
+  font-family: $headFontFamily, 'sans-serif';
   line-height: 28px;
   font-weight: bold;
 }
